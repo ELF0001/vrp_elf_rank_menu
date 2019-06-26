@@ -30,7 +30,7 @@ local lang = Lang.new(module("vrp", "cfg/lang/"..cfg.lang) or {})
 --::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::--
 
 local logdof = "both" -- "txt" = 1 -/- "dis" = 2-/- "both" = 3			txt = text document		dis = discord msg - working			both = txt + dis 
-local discordwebhook = "https://discordapp.com/api/webhooks/593240312630083597/jrBWLJgvEd7emBO3uPXWbhzCoKQzMWDtHKH8tuSlmHbd3HTeJUqCBELBQe7M-Xq7deYw"
+local discordwebhook = "https://discordapp.com/api/webhooks/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 -- To Add A Rank Insert It Into StaffGroups "IMPORTANT Lowest Rank To Higest Rank" 
