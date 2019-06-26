@@ -1,4 +1,4 @@
-# vrp_elf_rank_menu
+# vrp_elf_rank_menu V0.1
 A Rank / Job Menu For vRP
 
 
